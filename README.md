@@ -24,7 +24,7 @@ Principais recursos:
 - 🛠️ Utilitários essenciais para o PC
 - 💻 Interface simples e organizada
 
-📥 Instalação: baixe a versão mais recente através da área Releases.
+📥 [Download OTMPC](https://github.com/mhf-gamer/APPS-TM-STORE/releases/download/Apps/OTMPC-Setup-v2.1.1.exe)
 
 ---
 
@@ -45,7 +45,7 @@ Principais recursos:
 
 «O LPPC é uma ferramenta auxiliar e não substitui uma solução antivírus dedicada.»
 
-📥 Instalação: baixe a versão mais recente através da área Releases.
+📥 [Download LPPC](https://github.com/mhf-gamer/APPS-TM-STORE/releases/download/Apps/LPPC-Setup-v1.1.0.exe)
 
 ---
 
